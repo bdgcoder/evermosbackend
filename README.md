@@ -25,7 +25,7 @@ To simplify the simulation I created a backend application using:
 - Bootstrap design template
 - mysql database (dumb file can be downloaded in _database/evermosbackend.sql_)
 
-To make it easier, if needed, I can prepare a demo hosting to make it easier to see simulations of online shop problems by request. However, for the first time, it can be seen from the screen shoot below ![](https://github.com/bdgcoder/evermosbackend/tree/master/public/assets/images/simulation.png)
+To make it easier, if needed, I can prepare a demo hosting to make it easier to see simulations of online shop problems by request. However, for the first time, it can be seen from the screen shoot below ![](https://raw.githubusercontent.com/bdgcoder/evermosbackend/master/public/assets/images/simulation.png)
 
 Note:
 
@@ -35,7 +35,7 @@ Note:
 File hunt.php
 
 This application build by a simple-line program in *php cli*. Open your favorite Terminal and run these commands.
-You can find *hunt.php* at the root. ![](https://github.com/bdgcoder/evermosbackend/tree/master/public/assets/images/hunt.png)
+You can find *hunt.php* at the root. ![](https://raw.githubusercontent.com/bdgcoder/evermosbackend/master/public/assets/images/hunt.png)
 
 
 ```sh
